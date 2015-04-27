@@ -8,8 +8,8 @@
   http://www.thingiverse.com/thing:6894
 
 # Parts so far
--Pairs of  Pan or tilt gears
--A shape to hold a servo between two shafts. ServoHolder()
+- Pairs of  Pan or tilt gears
+- A shape to hold a servo between two shafts. ServoHolder()
 - A shape to hold something between two shafts. Could be a pivot point for the picavet, or the bottom plate that holds the camera between two pairs of shafts.BracePivot()
 - A dumb plate for mounting cameras or parts between shafts. CameraPlate()
 - A corner connector between two pairs of shafts at 90 degrees. pipebrace()
